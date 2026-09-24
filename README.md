@@ -1,4 +1,4 @@
-<img src="assets/profitlens_logo.png" width="200" alt="Logo">
+<img src="images/profitlens_logo.png" width="200" alt="Logo">
 
 # ProfitLens: Ecommerce Profitability & Growth Analysis
 
