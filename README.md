@@ -28,7 +28,7 @@ The core of the dashboard isn't "sales reporting," it's tracing Gross Sales → 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 ProfitLens is an ecommerce profitability and growth dashboard built in Power BI. It uses custom DAX (bridge/waterfall measures, cohort aging, RFM-style segmentation) to trace revenue down to contribution margin and to show which levers actually move margin, and which ones only move volume.
 
-![Executive Overview](assets/executive_view.png)
+![Executive Overview](images/executive_view.png)
 
 ---
 
@@ -53,7 +53,7 @@ The project uses ten tables: one fact table and nine dimension tables. They cove
 | DimReturnReason | Dimension | Reasons for returns |
 | DimCohortAge | Dimension | Customer cohort age buckets |
 
-[State source / synthetic / confidential note here.]
+[source : https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/zoomcharts-power-bi-challenge-september-2026?loginSuccess=1]
 
 ---
 
@@ -69,7 +69,7 @@ The project uses ten tables: one fact table and nine dimension tables. They cove
 
 A star schema with `FactOrderLine` at the center, connected to nine dimension tables (`DimDate`, `DimProduct`, `DimCustomer`, `DimGeography`, `DimPromotion`, `DimFulfillment`, `DimSalesChannel`, `DimReturnReason`, `DimCohortAge`) for efficient querying and optimized performance.
 
-![Data Model](datamodel/datamodel.png)
+![Data Model](images/datamodel.png)
 
 ---
 
@@ -133,19 +133,19 @@ A star schema with `FactOrderLine` at the center, connected to nine dimension ta
 
 1. **Executive Overview**
    Revenue/margin bridges, cost decomposition, and trend.
-   - [Executive Overview Dashboard](dashboard/executive_view.png)
+   - [Executive Overview Dashboard](images/executive_view.png)
 
 2. **Growth Drivers**
    Product, market/channel, and promotion performance.
-   - [Growth Drivers - Products Dashboard](dashboard/growth_drivers_products.png)
-   - [Growth Drivers - Markets & Channel Dashboard](dashboard/growth_drivers_markets_channels.png)
-   - [Growth Drivers - Promotion Dashboard](dashboard/growth_drivers_promotions.png)
+   - [Growth Drivers - Products Dashboard](images/growth_drivers_products.png)
+   - [Growth Drivers - Markets & Channel Dashboard](images/growth_drivers_markets_channels.png)
+   - [Growth Drivers - Promotion Dashboard](images/growth_drivers_promotions.png)
 
 3. **Customers & Operations**
    Segmentation, cohorts, fulfillment, and returns.
-   - [Customers & Operations - Returns Dashboard](dashboard/customers_operations_returns.png)
-   - [Customers & Operations - Customers & Cohort Dashboard](dashboard/customers_operations_customers_cohorts.png)
-   - [Customers & Operations - Fulfillment & Inventory Dashboard](dashboard/customers_operations_fulfillment_inventory.png)
+   - [Customers & Operations - Returns Dashboard](images/customers_operations_returns.png)
+   - [Customers & Operations - Customers & Cohort Dashboard](images/customers_operations_customers_cohorts.png)
+   - [Customers & Operations - Fulfillment & Inventory Dashboard](images/customers_operations_fulfillment_inventory.png)
 
 ## Key Findings
 - **Margin structure:** Product Cost (60.3% of Net Sales) is the dominant driver, leaving a 20.1% Contribution Margin.
