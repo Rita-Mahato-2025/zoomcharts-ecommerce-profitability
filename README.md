@@ -9,6 +9,8 @@ The core of the dashboard isn't "sales reporting," it's tracing Gross Sales → 
 
 **Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiYThmOWM4NDUtM2VlNS00YzBiLTk4YmUtOGY5ZThlMzQ2YzNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
+**Watch Video Presentation:** [![Watch the video](https://www.youtube.com/watch?v=1IpvYBJG0Yw&feature=youtu.be)
+
 ---
 
 ## 📌 Table of Contents
