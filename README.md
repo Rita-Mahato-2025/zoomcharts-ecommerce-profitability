@@ -167,9 +167,9 @@ A star schema with `FactOrderLine` at the center, connected to nine dimension ta
 
 <h2><a class="anchor" id="how-to-explore"></a>How to Explore</h2>
 
-1. Download `pbix/ProfitLens_Ecommerce_Dashboard.pbix`
+1. Download `pbix/profitLens_ecommerce_profitability_dashboard.pbix`
 2. Open in Power BI Desktop (free)
-3. Or view static screenshots in `assets/screenshots/`
+3. Or view static screenshots in `images/`
 
 ---
 
