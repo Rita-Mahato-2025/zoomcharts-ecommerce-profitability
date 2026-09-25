@@ -62,7 +62,6 @@ The project uses ten tables: one fact table and nine dimension tables. They cove
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
 - Power BI (Power Query / M, DAX, Power BI Service)
-- [SQL / Excel — add if used for source prep]
 - GitHub
 
 ---
