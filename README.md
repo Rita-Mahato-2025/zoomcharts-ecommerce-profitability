@@ -4,7 +4,7 @@
 
 ### 🧩 Domain: Ecommerce / Retail Analytics (online retail — order lines, product categories, sales channels, customer cohorts, promotions, and carrier fulfillment)
 ### 💼 Function: Financial & Business Analytics — specifically Profitability / Margin Analysis (with strong overlap into FP&A-style work)
-The core of the dashboard isn't "sales reporting," it's tracing Gross Sales → Net Sales → Contribution Margin and decomposing why margin erodes — cost structure, returns, customer economics, fulfillment cost-efficiency. That's the kind of analysis a Financial Analyst, BI Analyst, or Commercial/Revenue Analyst role would own.
+The core of the dashboard isn't "sales reporting," it's tracing Gross Sales → Net Sales → Contribution Margin and decomposing why margin erodes — cost structure, returns, customer economics, fulfillment cost-efficiency. 
 ### 🛠 Tools: Power BI (Power Query / M, DAX, Power BI Service), GitHub
 
 **Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiYThmOWM4NDUtM2VlNS00YzBiLTk4YmUtOGY5ZThlMzQ2YzNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
