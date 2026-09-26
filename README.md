@@ -35,7 +35,7 @@ ProfitLens is an ecommerce profitability and growth dashboard built in Power BI.
 ---
 
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
-Ecommerce revenue was growing, but leadership had no visibility into *where* margin was actually being made or lost — across products, channels, promotions, customer segments, and fulfillment partners. ProfitLens was built to answer: **which levers actually move contribution margin, and which ones just move volume?
+Ecommerce revenue was growing, but leadership had no visibility into *where* margin was actually being made or lost — across products, channels, promotions, customer segments, and fulfillment partners. ProfitLens was built to answer: which levers actually move contribution margin, and which ones just move volume?
 
 ---
 
